@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SignGuiAPI.iml" filepath="$PROJECT_DIR$/SignGuiAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SignGUI-API-Folia.iml" filepath="$PROJECT_DIR$/SignGUI-API-Folia.iml" />
     </modules>
   </component>
 </project>
