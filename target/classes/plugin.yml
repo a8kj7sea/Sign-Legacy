@@ -1,7 +1,0 @@
-name: SignGuiAPI
-version: '1.0-SNAPSHOT'
-main: me.kirug.signgui.SignGuiPlugin
-api-version: '1.21'
-folia-supported: true
-description: A professional Sign GUI API for Folia.
-authors: [KiruGoldzZz]
