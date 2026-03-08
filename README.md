@@ -1,4 +1,4 @@
-# SignGuiAPI
+# SignGuiAPI | <sup><sub> [![](https://jitpack.io/v/a8kj7sea/Sign-Legacy.svg)](https://jitpack.io/#a8kj7sea/Sign-Legacy) </sup></sub>
 
 A lightweight, high-performance, and optimized API for creating Sign GUIs on Minecraft servers. This API has been
 extensively tested and is **100% functional** across all versions (from 1.8.8 up to 1.21+) as long as **ViaVersion** is
